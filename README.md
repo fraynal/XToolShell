@@ -7,4 +7,4 @@ Started from the exploit: https://gist.github.com/gboddin/6374c04f84b58cef050f5f
 
 Extracted the multiple layers to the final payload, the powershell script messing with the MachineKey.
 
-Fred Raynal <fraynal@quarkslab.com>
+Fred Raynal <fraynal-AT-quarkslab.com>
